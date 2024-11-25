@@ -7,9 +7,9 @@ feature_isslem modification
 
 
 feature_roua modification
-<<<<<<< HEAD
+
 feature roua2 modification
-=======
+
 
 rawend trabelsi nouveau
 
